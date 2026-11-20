@@ -19,7 +19,7 @@ nonisolated enum PreviewIsolation {
     }
 
     private(set) nonisolated(unsafe) static var isActive = false
-    private static let log = Logger(subsystem: "ai.nuphos.ios", category: "preview")
+    private static let log = Logger(subsystem: "au.com.bilson.nuphos", category: "preview")
 
     static func isPreview(arguments: [String], fixture: String?) -> Bool {
         if arguments.contains("-share-verification") { return false }

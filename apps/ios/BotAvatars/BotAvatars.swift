@@ -11,7 +11,7 @@ enum BotAvatars {
 
     /// Shared with the notification extension, which shows the avatar on pushes.
     static let defaults: UserDefaults = {
-        migratedDefaults(legacy: .standard, shared: UserDefaults(suiteName: "group.ai.nuphos.ios") ?? .standard)
+        migratedDefaults(legacy: .standard, shared: UserDefaults(suiteName: "group.au.com.bilson.nuphos") ?? .standard)
     }()
 
     /// Migrate once; later shared-suite changes take precedence over the old value.

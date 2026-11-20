@@ -1648,7 +1648,7 @@ final class ChatSession {
 
     private func newId() -> String { UUID().uuidString.lowercased() }
 
-    private static let logger = Logger(subsystem: "ai.nuphos.ios", category: "chat")
+    private static let logger = Logger(subsystem: "au.com.bilson.nuphos", category: "chat")
 
     private func debugLog(_ message: @autoclosure () -> String) {
         #if DEBUG

@@ -88,7 +88,7 @@ If you cannot write all seven languages, run the fill script for what Desktop al
 xcodebuild -project nuphos-ios.xcodeproj -scheme nuphos-ios -configuration Debug \
   -destination 'generic/platform=iOS' -allowProvisioningUpdates build
 xcrun devicectl device install app --device <udid> <DerivedData>/Build/Products/Debug-iphoneos/nuphos-ios.app
-xcrun devicectl device process launch --device <udid> ai.nuphos.ios
+xcrun devicectl device process launch --device <udid> au.com.bilson.nuphos
 ```
 
 ## TestFlight

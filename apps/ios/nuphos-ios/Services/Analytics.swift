@@ -16,8 +16,8 @@ final class Analytics {
         #if DEBUG
         return false
         #else
-        // Self-hosted users must never be sent to Nuphos Cloud analytics.
-        return NuphosAPI.baseURL == NuphosAPI.defaultBaseURL
+        // Oracle build: the default endpoint is our own server, so never send analytics anywhere.
+        return false
         #endif
     }
 

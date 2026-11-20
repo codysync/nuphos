@@ -61,7 +61,7 @@ enum NuphosAPI {
         return originsLock.withLock { tokenOrigins[token] } ?? baseURL
     }
 
-    static let defaultBaseURL = URL(string: "https://api.nuphos.ai")!
+    static let defaultBaseURL = URL(string: "https://oracle.skink-tailor.ts.net:3300")!
     /// UserDefaults key for a self-hosted backend origin; unset means Nuphos Cloud.
     static let baseURLKey = "apiBaseURL"
 

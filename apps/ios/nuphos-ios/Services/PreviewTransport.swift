@@ -19,7 +19,7 @@ nonisolated final class PreviewTransport: URLProtocol, @unchecked Sendable {
         let responses = (try? Data(contentsOf: URL(fileURLWithPath: file))).flatMap { try? JSONSerialization.jsonObject(with: $0) as? [String: Any] } ?? [:]
         let key = "\(request.httpMethod ?? "GET") \(url.path)"
         // Simulator regression scripts read this to see which requests ran.
-        Logger(subsystem: "ai.nuphos.ios", category: "preview").notice("preview_request \(key, privacy: .public)")
+        Logger(subsystem: "au.com.bilson.nuphos", category: "preview").notice("preview_request \(key, privacy: .public)")
         // UI tests read this to see what a request sent: one JSON line per request with a JSON body.
         if let log = env["NUPHOS_PREVIEW_REQUESTS"], let sent = Self.body(of: request),
            let line = try? JSONSerialization.data(withJSONObject: ["request": key, "body": sent]) {

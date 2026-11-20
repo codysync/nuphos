@@ -15,7 +15,7 @@ chat="https://nuphos.ai/teams/$team/agent/push-a"
 fixture="$(cd "$(dirname "$0")" && pwd)/fixtures/push-responses.json"
 
 launch=$(SIMCTL_CHILD_NUPHOS_PREVIEW_RESPONSES="$fixture" \
-  xcrun simctl launch --terminate-running-process "$device" ai.nuphos.ios \
+  xcrun simctl launch --terminate-running-process "$device" au.com.bilson.nuphos \
   -preview-home -preview-no-push -open-links "$chat" "https://nuphos.ai/agent" "$chat")
 pid=${launch##*: }
 

@@ -355,7 +355,7 @@ private struct LossyMessage: Decodable {
             message = try ChatMessage(from: decoder)
         } catch {
             message = nil
-            Logger(subsystem: "ai.nuphos.ios", category: "chat").error("hid undecodable message: \(String(describing: error), privacy: .public)")
+            Logger(subsystem: "au.com.bilson.nuphos", category: "chat").error("hid undecodable message: \(String(describing: error), privacy: .public)")
         }
     }
 }

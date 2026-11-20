@@ -5,7 +5,7 @@ import Security
 /// this app holds, and it must survive relaunches without ever touching
 /// UserDefaults.
 enum Keychain {
-    private static let service = "ai.nuphos.ios"
+    private static let service = "au.com.bilson.nuphos"
 
     enum Failure: Error { case unhandled(OSStatus) }
 

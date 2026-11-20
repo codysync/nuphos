@@ -4,7 +4,7 @@ import OSLog
 /// Structured UI diagnostics that can be filtered in Console.app with the
 /// `ui-events` category.
 enum UIEventLog {
-    private static let logger = Logger(subsystem: "ai.nuphos.ios", category: "ui-events")
+    private static let logger = Logger(subsystem: "au.com.bilson.nuphos", category: "ui-events")
 
     #if DEBUG
     static func regression(name: String, passed: Bool, detail: String) {

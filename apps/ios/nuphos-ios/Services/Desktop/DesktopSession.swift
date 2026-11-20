@@ -240,8 +240,8 @@ final class DesktopSession {
     #if DEBUG
     /// Where time goes, per update: its size, the wait for its first byte (an
     /// unchanged screen waits there), the time to read and decode it, and how
-    /// much has arrived unread. `log stream --predicate 'subsystem == "ai.nuphos.ios"'`.
-    private static let log = Logger(subsystem: "ai.nuphos.ios", category: "desktop")
+    /// much has arrived unread. `log stream --predicate 'subsystem == "au.com.bilson.nuphos"'`.
+    private static let log = Logger(subsystem: "au.com.bilson.nuphos", category: "desktop")
     #endif
 
     private func began(width: Int, height: Int) {
