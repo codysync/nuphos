@@ -82,7 +82,7 @@ struct LoginView: View {
                         Image("NuphosMark").resizable().scaledToFit().frame(width: 48, height: 48)
                             .accessibilityHidden(true)
                         VStack(spacing: 8) {
-                            Text("Welcome to Nuphos").font(.title.bold())
+                            Text("Welcome to Oracle Bots").font(.title.bold())
                                 .multilineTextAlignment(.center)
                             Text("Sign in or create an account.")
                                 .font(.subheadline).foregroundStyle(Theme.body)
@@ -507,12 +507,12 @@ private struct LoginServerSettings: View {
                 } header: {
                     Text("Server address")
                 } footer: {
-                    Text("Leave this unchanged to use Nuphos Cloud. Enter your server address to use a self-hosted instance.")
+                    Text("Leave this unchanged to use Oracle Bots Cloud. Enter your server address to use a self-hosted instance.")
                 }
                 if let error { Section { Text(error).foregroundStyle(.red) } }
                 if !savedURL.isEmpty {
                     Section {
-                        Button("Use Nuphos Cloud") { savedURL = ""; dismiss() }
+                        Button("Use Oracle Bots Cloud") { savedURL = ""; dismiss() }
                     }
                 }
             }

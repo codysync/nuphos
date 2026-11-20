@@ -248,24 +248,24 @@
         }
       }
     },
-    "%@ belongs to a teammate, so only they can sign it in. Ask them to open Nuphos on it and choose Sign in on the Runtimes page." : {
+    "%@ belongs to a teammate, so only they can sign it in. Ask them to open Oracle Bots on it and choose Sign in on the Runtimes page." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ pertenece a un compañero, así que solo esa persona puede iniciar sesión. Pídele que abra Nuphos en ese equipo y elija Iniciar sesión en la página Entornos de ejecución."
+            "value" : "%@ pertenece a un compañero, así que solo esa persona puede iniciar sesión. Pídele que abra Oracle Bots en ese equipo y elija Iniciar sesión en la página Entornos de ejecución."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ milik rekan tim, jadi hanya mereka yang dapat memasukkannya. Minta mereka membuka Nuphos di sana dan memilih Masuk di halaman Runtime."
+            "value" : "%@ milik rekan tim, jadi hanya mereka yang dapat memasukkannya. Minta mereka membuka Oracle Bots di sana dan memilih Masuk di halaman Runtime."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ はチームメイトのものなので、サインインできるのはその人だけです。そのコンピュータで Nuphos を開き、ランタイムのページでサインインを選ぶよう依頼してください。"
+            "value" : "%@ はチームメイトのものなので、サインインできるのはその人だけです。そのコンピュータで Oracle Bots を開き、ランタイムのページでサインインを選ぶよう依頼してください。"
           }
         },
         "ko" : {
@@ -277,19 +277,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ เป็นของเพื่อนร่วมทีม จึงมีเพียงเขาเท่านั้นที่ลงชื่อเข้าใช้ได้ ขอให้เขาเปิด Nuphos บนเครื่องนั้นแล้วเลือกลงชื่อเข้าใช้ในหน้ารันไทม์"
+            "value" : "%@ เป็นของเพื่อนร่วมทีม จึงมีเพียงเขาเท่านั้นที่ลงชื่อเข้าใช้ได้ ขอให้เขาเปิด Oracle Bots บนเครื่องนั้นแล้วเลือกลงชื่อเข้าใช้ในหน้ารันไทม์"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ 属于你的队友，只有对方可以登录。请对方在那台电脑上打开 Nuphos，并在“运行环境”页面选择登录。"
+            "value" : "%@ 属于你的队友，只有对方可以登录。请对方在那台电脑上打开 Oracle Bots，并在“运行环境”页面选择登录。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ 屬於你的隊友，只有對方可以登入。請對方在那台電腦上開啟 Nuphos，並在「執行環境」頁面選擇登入。"
+            "value" : "%@ 屬於你的隊友，只有對方可以登入。請對方在那台電腦上開啟 Oracle Bots，並在「執行環境」頁面選擇登入。"
           }
         }
       }
@@ -1668,48 +1668,48 @@
         }
       }
     },
-    "1. Add Nuphos to your authenticator app" : {
+    "1. Add Oracle Bots to your authenticator app" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. Añade Nuphos a tu app de autenticación"
+            "value" : "1. Añade Oracle Bots a tu app de autenticación"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. Tambahkan Nuphos ke aplikasi autentikator Anda"
+            "value" : "1. Tambahkan Oracle Bots ke aplikasi autentikator Anda"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 認証アプリに Nuphos を追加"
+            "value" : "1. 認証アプリに Oracle Bots を追加"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 인증 앱에 Nuphos 추가"
+            "value" : "1. 인증 앱에 Oracle Bots 추가"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. เพิ่ม Nuphos ในแอปยืนยันตัวตน"
+            "value" : "1. เพิ่ม Oracle Bots ในแอปยืนยันตัวตน"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 将 Nuphos 添加到你的验证器 App"
+            "value" : "1. 将 Oracle Bots 添加到你的验证器 App"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 將 Nuphos 加入你的驗證器 App"
+            "value" : "1. 將 Oracle Bots 加入你的驗證器 App"
           }
         }
       }
@@ -1760,24 +1760,24 @@
         }
       }
     },
-    "1. Open Nuphos on your computer." : {
+    "1. Open Oracle Bots on your computer." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. Abre Nuphos en tu ordenador."
+            "value" : "1. Abre Oracle Bots en tu ordenador."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. Buka Nuphos di komputer Anda."
+            "value" : "1. Buka Oracle Bots di komputer Anda."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. コンピュータで Nuphos を開きます。"
+            "value" : "1. コンピュータで Oracle Bots を開きます。"
           }
         },
         "ko" : {
@@ -1789,19 +1789,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. เปิด Nuphos บนคอมพิวเตอร์"
+            "value" : "1. เปิด Oracle Bots บนคอมพิวเตอร์"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 在电脑上打开 Nuphos。"
+            "value" : "1. 在电脑上打开 Oracle Bots。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "1. 在電腦上開啟 Nuphos。"
+            "value" : "1. 在電腦上開啟 Oracle Bots。"
           }
         }
       }
@@ -1991,24 +1991,24 @@
         }
       }
     },
-    "A Linux computer Nuphos runs, with Claude Code, Codex, OpenCode and more on it. Running computers count against your plan's vCPU; paused ones do not." : {
+    "A Linux computer Oracle Bots runs, with Claude Code, Codex, OpenCode and more on it. Running computers count against your plan's vCPU; paused ones do not." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Una computadora Linux que ejecuta Nuphos, con Claude Code, Codex, OpenCode y más. Las computadoras en ejecución cuentan para los vCPU de tu plan; las pausadas no."
+            "value" : "Una computadora Linux que ejecuta Oracle Bots, con Claude Code, Codex, OpenCode y más. Las computadoras en ejecución cuentan para los vCPU de tu plan; las pausadas no."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komputer Linux yang dijalankan Nuphos, dengan Claude Code, Codex, OpenCode, dan lainnya. Komputer yang berjalan dihitung dalam vCPU paket Anda; yang dijeda tidak."
+            "value" : "Komputer Linux yang dijalankan Oracle Bots, dengan Claude Code, Codex, OpenCode, dan lainnya. Komputer yang berjalan dihitung dalam vCPU paket Anda; yang dijeda tidak."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos が実行する、Claude Code、Codex、OpenCode などを搭載した Linux コンピューターです。実行中のコンピューターはプランの vCPU に含まれ、一時停止中のものは含まれません。"
+            "value" : "Oracle Bots が実行する、Claude Code、Codex、OpenCode などを搭載した Linux コンピューターです。実行中のコンピューターはプランの vCPU に含まれ、一時停止中のものは含まれません。"
           }
         },
         "ko" : {
@@ -2020,19 +2020,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คอมพิวเตอร์ Linux ที่ Nuphos รันให้ พร้อม Claude Code, Codex, OpenCode และอื่น ๆ คอมพิวเตอร์ที่กำลังทำงานจะนับรวมใน vCPU ของแพ็กเกจ ส่วนที่หยุดชั่วคราวจะไม่นับ"
+            "value" : "คอมพิวเตอร์ Linux ที่ Oracle Bots รันให้ พร้อม Claude Code, Codex, OpenCode และอื่น ๆ คอมพิวเตอร์ที่กำลังทำงานจะนับรวมใน vCPU ของแพ็กเกจ ส่วนที่หยุดชั่วคราวจะไม่นับ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由 Nuphos 运行、内置 Claude Code、Codex、OpenCode 等的 Linux 电脑。运行中的电脑会计入套餐的 vCPU 额度，已暂停的则不计入。"
+            "value" : "由 Oracle Bots 运行、内置 Claude Code、Codex、OpenCode 等的 Linux 电脑。运行中的电脑会计入套餐的 vCPU 额度，已暂停的则不计入。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由 Nuphos 執行、內建 Claude Code、Codex、OpenCode 等的 Linux 電腦。執行中的電腦會計入方案的 vCPU 額度，已暫停的則不計入。"
+            "value" : "由 Oracle Bots 執行、內建 Claude Code、Codex、OpenCode 等的 Linux 電腦。執行中的電腦會計入方案的 vCPU 額度，已暫停的則不計入。"
           }
         }
       }
@@ -2221,24 +2221,24 @@
         }
       }
     },
-    "A workspace administrator can sign it in from the Runtimes page in Nuphos on their computer." : {
+    "A workspace administrator can sign it in from the Runtimes page in Oracle Bots on their computer." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Un administrador del espacio de trabajo puede iniciar sesión desde la página Entornos de ejecución de Nuphos en su computadora."
+            "value" : "Un administrador del espacio de trabajo puede iniciar sesión desde la página Entornos de ejecución de Oracle Bots en su computadora."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Administrator workspace dapat memasukkannya dari halaman Runtime di Nuphos pada komputer mereka."
+            "value" : "Administrator workspace dapat memasukkannya dari halaman Runtime di Oracle Bots pada komputer mereka."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ワークスペースの管理者が、自分のコンピュータの Nuphos のランタイムのページからサインインできます。"
+            "value" : "ワークスペースの管理者が、自分のコンピュータの Oracle Bots のランタイムのページからサインインできます。"
           }
         },
         "ko" : {
@@ -2250,19 +2250,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ผู้ดูแลเวิร์กสเปซลงชื่อเข้าใช้ได้จากหน้ารันไทม์ใน Nuphos บนคอมพิวเตอร์ของตน"
+            "value" : "ผู้ดูแลเวิร์กสเปซลงชื่อเข้าใช้ได้จากหน้ารันไทม์ใน Oracle Bots บนคอมพิวเตอร์ของตน"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "工作区管理员可以在自己电脑上的 Nuphos“运行环境”页面登录它。"
+            "value" : "工作区管理员可以在自己电脑上的 Oracle Bots“运行环境”页面登录它。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "工作區管理員可以在自己電腦上的 Nuphos「執行環境」頁面登入它。"
+            "value" : "工作區管理員可以在自己電腦上的 Oracle Bots「執行環境」頁面登入它。"
           }
         }
       }
@@ -2911,48 +2911,48 @@
         }
       }
     },
-    "Administrators rent computers from Nuphos." : {
+    "Administrators rent computers from Oracle Bots." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Los administradores alquilan computadoras de Nuphos."
+            "value" : "Los administradores alquilan computadoras de Oracle Bots."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Administrator menyewa komputer dari Nuphos."
+            "value" : "Administrator menyewa komputer dari Oracle Bots."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos からのコンピューターのレンタルは管理者が行います。"
+            "value" : "Oracle Bots からのコンピューターのレンタルは管理者が行います。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 컴퓨터 대여는 관리자가 합니다."
+            "value" : "Oracle Bots 컴퓨터 대여는 관리자가 합니다."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ผู้ดูแลระบบเป็นผู้เช่าคอมพิวเตอร์จาก Nuphos"
+            "value" : "ผู้ดูแลระบบเป็นผู้เช่าคอมพิวเตอร์จาก Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由管理员向 Nuphos 租用电脑。"
+            "value" : "由管理员向 Oracle Bots 租用电脑。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由管理員向 Nuphos 租用電腦。"
+            "value" : "由管理員向 Oracle Bots 租用電腦。"
           }
         }
       }
@@ -4016,24 +4016,24 @@
         }
       }
     },
-    "Ask Nuphos anything…" : {
+    "Ask Oracle Bots anything…" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pregúntale lo que sea a Nuphos…"
+            "value" : "Pregúntale lo que sea a Oracle Bots…"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tanyakan apa saja ke Nuphos…"
+            "value" : "Tanyakan apa saja ke Oracle Bots…"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos に何でも聞いてください…"
+            "value" : "Oracle Bots に何でも聞いてください…"
           }
         },
         "ko" : {
@@ -4045,19 +4045,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ถาม Nuphos ได้ทุกเรื่อง…"
+            "value" : "ถาม Oracle Bots ได้ทุกเรื่อง…"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "问 Nuphos 任何问题…"
+            "value" : "问 Oracle Bots 任何问题…"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "問 Nuphos 任何問題…"
+            "value" : "問 Oracle Bots 任何問題…"
           }
         }
       }
@@ -5960,24 +5960,24 @@
         }
       }
     },
-    "Choose a plan in Nuphos on your computer." : {
+    "Choose a plan in Oracle Bots on your computer." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Elige un plan en Nuphos en tu computadora."
+            "value" : "Elige un plan en Oracle Bots en tu computadora."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Pilih paket di Nuphos pada komputer Anda."
+            "value" : "Pilih paket di Oracle Bots pada komputer Anda."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "お使いのコンピューターの Nuphos でプランを選択してください。"
+            "value" : "お使いのコンピューターの Oracle Bots でプランを選択してください。"
           }
         },
         "ko" : {
@@ -5989,19 +5989,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เลือกแพ็กเกจใน Nuphos บนคอมพิวเตอร์ของคุณ"
+            "value" : "เลือกแพ็กเกจใน Oracle Bots บนคอมพิวเตอร์ของคุณ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请在电脑上的 Nuphos 中选择套餐。"
+            "value" : "请在电脑上的 Oracle Bots 中选择套餐。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請在電腦上的 Nuphos 選擇方案。"
+            "value" : "請在電腦上的 Oracle Bots 選擇方案。"
           }
         }
       }
@@ -7897,24 +7897,24 @@
         }
       }
     },
-    "Connect a computer to your team in Nuphos to use it here." : {
+    "Connect a computer to your team in Oracle Bots to use it here." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conecta una computadora a tu equipo en Nuphos para usarla aquí."
+            "value" : "Conecta una computadora a tu equipo en Oracle Bots para usarla aquí."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hubungkan komputer ke tim Anda di Nuphos untuk menggunakannya di sini."
+            "value" : "Hubungkan komputer ke tim Anda di Oracle Bots untuk menggunakannya di sini."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos でコンピュータをチームに接続すると、ここで使えます。"
+            "value" : "Oracle Bots でコンピュータをチームに接続すると、ここで使えます。"
           }
         },
         "ko" : {
@@ -7926,41 +7926,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เชื่อมต่อคอมพิวเตอร์กับทีมของคุณใน Nuphos เพื่อใช้งานที่นี่"
+            "value" : "เชื่อมต่อคอมพิวเตอร์กับทีมของคุณใน Oracle Bots เพื่อใช้งานที่นี่"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 Nuphos 中将电脑连接到你的团队，即可在这里使用。"
+            "value" : "在 Oracle Bots 中将电脑连接到你的团队，即可在这里使用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 Nuphos 中將電腦連接到你的團隊，即可在這裡使用。"
+            "value" : "在 Oracle Bots 中將電腦連接到你的團隊，即可在這裡使用。"
           }
         }
       }
     },
-    "Connect cloud accounts and integrations in Nuphos to use them here." : {
+    "Connect cloud accounts and integrations in Oracle Bots to use them here." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Conecta cuentas en la nube e integraciones en Nuphos para usarlas aquí."
+            "value" : "Conecta cuentas en la nube e integraciones en Oracle Bots para usarlas aquí."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Hubungkan akun cloud dan integrasi di Nuphos untuk menggunakannya di sini."
+            "value" : "Hubungkan akun cloud dan integrasi di Oracle Bots untuk menggunakannya di sini."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos でクラウドアカウントと連携を接続すると、ここで使えます。"
+            "value" : "Oracle Bots でクラウドアカウントと連携を接続すると、ここで使えます。"
           }
         },
         "ko" : {
@@ -7972,19 +7972,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เชื่อมต่อบัญชีคลาวด์และการผสานรวมใน Nuphos เพื่อใช้งานที่นี่"
+            "value" : "เชื่อมต่อบัญชีคลาวด์และการผสานรวมใน Oracle Bots เพื่อใช้งานที่นี่"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 Nuphos 中连接云账号和集成服务，即可在这里使用。"
+            "value" : "在 Oracle Bots 中连接云账号和集成服务，即可在这里使用。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 Nuphos 中連接雲端帳號與整合服務，即可在這裡使用。"
+            "value" : "在 Oracle Bots 中連接雲端帳號與整合服務，即可在這裡使用。"
           }
         }
       }
@@ -11535,7 +11535,7 @@
         }
       }
     },
-    "Depending on your runtime and model, this includes Anthropic (Claude), OpenAI (Codex), xAI (Grok), Google (Antigravity), DeepSeek (DeepSeek Harness), the model provider an OpenCode runtime uses (OpenCode Zen when it is not signed in to one), or Amazon Web Services. When tracing is enabled, Nuphos stores AI execution traces, which can include conversation and tool content, for diagnostics and service improvement." : {
+    "Depending on your runtime and model, this includes Anthropic (Claude), OpenAI (Codex), xAI (Grok), Google (Antigravity), DeepSeek (DeepSeek Harness), the model provider an OpenCode runtime uses (OpenCode Zen when it is not signed in to one), or Amazon Web Services. When tracing is enabled, Oracle Bots stores AI execution traces, which can include conversation and tool content, for diagnostics and service improvement." : {
       "comment" : "Legal text",
       "shouldTranslate" : false
     },
@@ -14812,48 +14812,48 @@
         }
       }
     },
-    "Leave this unchanged to use Nuphos Cloud. Enter your server address to use a self-hosted instance." : {
+    "Leave this unchanged to use Oracle Bots Cloud. Enter your server address to use a self-hosted instance." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Déjalo sin cambios para usar Nuphos Cloud. Introduce la dirección de tu servidor para usar una instancia autoalojada."
+            "value" : "Déjalo sin cambios para usar Oracle Bots Cloud. Introduce la dirección de tu servidor para usar una instancia autoalojada."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Biarkan tidak berubah untuk menggunakan Nuphos Cloud. Masukkan alamat server Anda untuk menggunakan instans yang di-host sendiri."
+            "value" : "Biarkan tidak berubah untuk menggunakan Oracle Bots Cloud. Masukkan alamat server Anda untuk menggunakan instans yang di-host sendiri."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos Cloud を使う場合は変更しないでください。セルフホストのインスタンスを使う場合はサーバーのアドレスを入力してください。"
+            "value" : "Oracle Bots Cloud を使う場合は変更しないでください。セルフホストのインスタンスを使う場合はサーバーのアドレスを入力してください。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos Cloud를 사용하려면 그대로 두세요. 자체 호스팅 인스턴스를 사용하려면 서버 주소를 입력하세요."
+            "value" : "Oracle Bots Cloud를 사용하려면 그대로 두세요. 자체 호스팅 인스턴스를 사용하려면 서버 주소를 입력하세요."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไม่ต้องเปลี่ยนหากใช้ Nuphos Cloud ป้อนที่อยู่เซิร์ฟเวอร์ของคุณเพื่อใช้อินสแตนซ์ที่โฮสต์เอง"
+            "value" : "ไม่ต้องเปลี่ยนหากใช้ Oracle Bots Cloud ป้อนที่อยู่เซิร์ฟเวอร์ของคุณเพื่อใช้อินสแตนซ์ที่โฮสต์เอง"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保持不变即使用 Nuphos Cloud。如需使用自托管实例，请输入你的服务器地址。"
+            "value" : "保持不变即使用 Oracle Bots Cloud。如需使用自托管实例，请输入你的服务器地址。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "保持不變即使用 Nuphos Cloud。若要使用自架服務，請輸入你的伺服器位址。"
+            "value" : "保持不變即使用 Oracle Bots Cloud。若要使用自架服務，請輸入你的伺服器位址。"
           }
         }
       }
@@ -17950,27 +17950,27 @@
         }
       }
     },
-    "Nuphos" : {
+    "Oracle Bots" : {
       "shouldTranslate" : false
     },
-    "Nuphos encrypts it on its way to the runtime, which keeps it; Nuphos does not keep a copy." : {
+    "Oracle Bots encrypts it on its way to the runtime, which keeps it; Oracle Bots does not keep a copy." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos lo cifra en su camino hacia el entorno de ejecución, que lo conserva; Nuphos no guarda ninguna copia."
+            "value" : "Oracle Bots lo cifra en su camino hacia el entorno de ejecución, que lo conserva; Oracle Bots no guarda ninguna copia."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos mengenkripsinya dalam perjalanan ke runtime, yang kemudian menyimpannya; Nuphos tidak menyimpan salinannya."
+            "value" : "Oracle Bots mengenkripsinya dalam perjalanan ke runtime, yang kemudian menyimpannya; Oracle Bots tidak menyimpan salinannya."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ランタイムへの送信時に Nuphos が暗号化し、ランタイムが保持します。Nuphos はコピーを保持しません。"
+            "value" : "ランタイムへの送信時に Oracle Bots が暗号化し、ランタイムが保持します。Oracle Bots はコピーを保持しません。"
           }
         },
         "ko" : {
@@ -17982,87 +17982,87 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos เข้ารหัสข้อมูลระหว่างส่งไปยังรันไทม์ซึ่งเป็นผู้เก็บไว้ Nuphos ไม่เก็บสำเนา"
+            "value" : "Oracle Bots เข้ารหัสข้อมูลระหว่างส่งไปยังรันไทม์ซึ่งเป็นผู้เก็บไว้ Oracle Bots ไม่เก็บสำเนา"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 会在传输到运行环境的过程中对其加密，由运行环境保存；Nuphos 不会保留副本。"
+            "value" : "Oracle Bots 会在传输到运行环境的过程中对其加密，由运行环境保存；Oracle Bots 不会保留副本。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 會在傳送至執行環境的過程中加密，並由執行環境保存；Nuphos 不會保留副本。"
+            "value" : "Oracle Bots 會在傳送至執行環境的過程中加密，並由執行環境保存；Oracle Bots 不會保留副本。"
           }
         }
       }
     },
-    "Nuphos logo" : {
+    "Oracle Bots logo" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Logotipo de Nuphos"
+            "value" : "Logotipo de Oracle Bots"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Logo Nuphos"
+            "value" : "Logo Oracle Bots"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos ロゴ"
+            "value" : "Oracle Bots ロゴ"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 로고"
+            "value" : "Oracle Bots 로고"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โลโก้ Nuphos"
+            "value" : "โลโก้ Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 标志"
+            "value" : "Oracle Bots 标志"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 標誌"
+            "value" : "Oracle Bots 標誌"
           }
         }
       }
     },
-    "Nuphos returned an unexpected response (%lld)." : {
+    "Oracle Bots returned an unexpected response (%lld)." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos devolvió una respuesta inesperada (%lld)."
+            "value" : "Oracle Bots devolvió una respuesta inesperada (%lld)."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos mengembalikan respons yang tidak terduga (%lld)."
+            "value" : "Oracle Bots mengembalikan respons yang tidak terduga (%lld)."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos から予期しない応答がありました（%lld）。"
+            "value" : "Oracle Bots から予期しない応答がありました（%lld）。"
           }
         },
         "ko" : {
@@ -18074,41 +18074,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos ส่งการตอบกลับที่ไม่คาดคิด (%lld)"
+            "value" : "Oracle Bots ส่งการตอบกลับที่ไม่คาดคิด (%lld)"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 返回了意外的响应（%lld）。"
+            "value" : "Oracle Bots 返回了意外的响应（%lld）。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 傳回了非預期的回應（%lld）。"
+            "value" : "Oracle Bots 傳回了非預期的回應（%lld）。"
           }
         }
       }
     },
-    "Nuphos returned something we could not read." : {
+    "Oracle Bots returned something we could not read." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos devolvió algo que no pudimos leer."
+            "value" : "Oracle Bots devolvió algo que no pudimos leer."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos mengembalikan sesuatu yang tidak dapat kami baca."
+            "value" : "Oracle Bots mengembalikan sesuatu yang tidak dapat kami baca."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos から読み取れない応答がありました。"
+            "value" : "Oracle Bots から読み取れない応答がありました。"
           }
         },
         "ko" : {
@@ -18120,41 +18120,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos ส่งข้อมูลที่อ่านไม่ได้กลับมา"
+            "value" : "Oracle Bots ส่งข้อมูลที่อ่านไม่ได้กลับมา"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 返回了无法读取的内容。"
+            "value" : "Oracle Bots 返回了无法读取的内容。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 傳回了無法讀取的內容。"
+            "value" : "Oracle Bots 傳回了無法讀取的內容。"
           }
         }
       }
     },
-    "Nuphos returned status %lld." : {
+    "Oracle Bots returned status %lld." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos devolvió el estado %lld."
+            "value" : "Oracle Bots devolvió el estado %lld."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos mengembalikan status %lld."
+            "value" : "Oracle Bots mengembalikan status %lld."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos がステータス %lld を返しました。"
+            "value" : "Oracle Bots がステータス %lld を返しました。"
           }
         },
         "ko" : {
@@ -18166,41 +18166,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos ส่งสถานะ %lld กลับมา"
+            "value" : "Oracle Bots ส่งสถานะ %lld กลับมา"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 返回状态码 %lld。"
+            "value" : "Oracle Bots 返回状态码 %lld。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 傳回狀態碼 %lld。"
+            "value" : "Oracle Bots 傳回狀態碼 %lld。"
           }
         }
       }
     },
-    "Nuphos runs it for you, with Claude Code, Codex, OpenCode and more." : {
+    "Oracle Bots runs it for you, with Claude Code, Codex, OpenCode and more." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos la ejecuta por ti, con Claude Code, Codex, OpenCode y más."
+            "value" : "Oracle Bots la ejecuta por ti, con Claude Code, Codex, OpenCode y más."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos menjalankannya untuk Anda, dengan Claude Code, Codex, OpenCode, dan lainnya."
+            "value" : "Oracle Bots menjalankannya untuk Anda, dengan Claude Code, Codex, OpenCode, dan lainnya."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos があなたのために実行します。Claude Code、Codex、OpenCode などを搭載しています。"
+            "value" : "Oracle Bots があなたのために実行します。Claude Code、Codex、OpenCode などを搭載しています。"
           }
         },
         "ko" : {
@@ -18212,41 +18212,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos รันให้คุณ พร้อม Claude Code, Codex, OpenCode และอื่น ๆ"
+            "value" : "Oracle Bots รันให้คุณ พร้อม Claude Code, Codex, OpenCode และอื่น ๆ"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由 Nuphos 为你运行，内置 Claude Code、Codex、OpenCode 等。"
+            "value" : "由 Oracle Bots 为你运行，内置 Claude Code、Codex、OpenCode 等。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "由 Nuphos 為你執行，內建 Claude Code、Codex、OpenCode 等。"
+            "value" : "由 Oracle Bots 為你執行，內建 Claude Code、Codex、OpenCode 等。"
           }
         }
       }
     },
-    "Nuphos sent passkey options this app could not read." : {
+    "Oracle Bots sent passkey options this app could not read." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos envió opciones de llave de acceso que esta app no pudo leer."
+            "value" : "Oracle Bots envió opciones de llave de acceso que esta app no pudo leer."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos mengirim opsi passkey yang tidak dapat dibaca aplikasi ini."
+            "value" : "Oracle Bots mengirim opsi passkey yang tidak dapat dibaca aplikasi ini."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos から送られたパスキーの設定をこのアプリで読み取れませんでした。"
+            "value" : "Oracle Bots から送られたパスキーの設定をこのアプリで読み取れませんでした。"
           }
         },
         "ko" : {
@@ -18258,19 +18258,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "แอปนี้อ่านตัวเลือกพาสคีย์ที่ Nuphos ส่งมาไม่ได้"
+            "value" : "แอปนี้อ่านตัวเลือกพาสคีย์ที่ Oracle Bots ส่งมาไม่ได้"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 发送的通行密钥选项无法被此 App 读取。"
+            "value" : "Oracle Bots 发送的通行密钥选项无法被此 App 读取。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 傳來的通行密鑰選項無法被此 App 讀取。"
+            "value" : "Oracle Bots 傳來的通行密鑰選項無法被此 App 讀取。"
           }
         }
       }
@@ -18505,24 +18505,24 @@
         }
       }
     },
-    "Offline · open Nuphos on that computer" : {
+    "Offline · open Oracle Bots on that computer" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sin conexión · abre Nuphos en esa computadora"
+            "value" : "Sin conexión · abre Oracle Bots en esa computadora"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Offline · buka Nuphos di komputer tersebut"
+            "value" : "Offline · buka Oracle Bots di komputer tersebut"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "オフライン · そのコンピュータで Nuphos を開いてください"
+            "value" : "オフライン · そのコンピュータで Oracle Bots を開いてください"
           }
         },
         "ko" : {
@@ -18534,19 +18534,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ออฟไลน์ · เปิด Nuphos บนคอมพิวเตอร์เครื่องนั้น"
+            "value" : "ออฟไลน์ · เปิด Oracle Bots บนคอมพิวเตอร์เครื่องนั้น"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "离线 · 请在那台电脑上打开 Nuphos"
+            "value" : "离线 · 请在那台电脑上打开 Oracle Bots"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "離線 · 請在那台電腦上開啟 Nuphos"
+            "value" : "離線 · 請在那台電腦上開啟 Oracle Bots"
           }
         }
       }
@@ -18597,24 +18597,24 @@
         }
       }
     },
-    "On %@, open Nuphos, go to the Runtimes page and choose Sign in for this runtime." : {
+    "On %@, open Oracle Bots, go to the Runtimes page and choose Sign in for this runtime." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "En %@, abre Nuphos, ve a la página Entornos de ejecución y elige Iniciar sesión para este entorno."
+            "value" : "En %@, abre Oracle Bots, ve a la página Entornos de ejecución y elige Iniciar sesión para este entorno."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Di %@, buka Nuphos, buka halaman Runtime, lalu pilih Masuk untuk runtime ini."
+            "value" : "Di %@, buka Oracle Bots, buka halaman Runtime, lalu pilih Masuk untuk runtime ini."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "%@ で Nuphos を開き、ランタイムのページでこのランタイムのサインインを選んでください。"
+            "value" : "%@ で Oracle Bots を開き、ランタイムのページでこのランタイムのサインインを選んでください。"
           }
         },
         "ko" : {
@@ -18626,19 +18626,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "บน %@ ให้เปิด Nuphos ไปที่หน้ารันไทม์ แล้วเลือกลงชื่อเข้าใช้สำหรับรันไทม์นี้"
+            "value" : "บน %@ ให้เปิด Oracle Bots ไปที่หน้ารันไทม์ แล้วเลือกลงชื่อเข้าใช้สำหรับรันไทม์นี้"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 %@ 上打开 Nuphos，前往“运行环境”页面，为这个运行环境选择登录。"
+            "value" : "在 %@ 上打开 Oracle Bots，前往“运行环境”页面，为这个运行环境选择登录。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在 %@ 上開啟 Nuphos，前往「執行環境」頁面，為這個執行環境選擇登入。"
+            "value" : "在 %@ 上開啟 Oracle Bots，前往「執行環境」頁面，為這個執行環境選擇登入。"
           }
         }
       }
@@ -19061,24 +19061,24 @@
         }
       }
     },
-    "Open Nuphos and select the workspace for this share." : {
+    "Open Oracle Bots and select the workspace for this share." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre Nuphos y selecciona el espacio de trabajo para compartir."
+            "value" : "Abre Oracle Bots y selecciona el espacio de trabajo para compartir."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Nuphos dan pilih workspace untuk berbagi ini."
+            "value" : "Buka Oracle Bots dan pilih workspace untuk berbagi ini."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos を開いて、この共有のワークスペースを選択してください。"
+            "value" : "Oracle Bots を開いて、この共有のワークスペースを選択してください。"
           }
         },
         "ko" : {
@@ -19090,41 +19090,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิด Nuphos แล้วเลือกเวิร์กสเปซสำหรับการแชร์นี้"
+            "value" : "เปิด Oracle Bots แล้วเลือกเวิร์กสเปซสำหรับการแชร์นี้"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请打开 Nuphos 并选择这次分享的工作区。"
+            "value" : "请打开 Oracle Bots 并选择这次分享的工作区。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請開啟 Nuphos 並選擇這次分享的工作區。"
+            "value" : "請開啟 Oracle Bots 並選擇這次分享的工作區。"
           }
         }
       }
     },
-    "Open Nuphos and sign in before sharing." : {
+    "Open Oracle Bots and sign in before sharing." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre Nuphos e inicia sesión antes de compartir."
+            "value" : "Abre Oracle Bots e inicia sesión antes de compartir."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Nuphos dan masuk sebelum berbagi."
+            "value" : "Buka Oracle Bots dan masuk sebelum berbagi."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "共有する前に Nuphos を開いてサインインしてください。"
+            "value" : "共有する前に Oracle Bots を開いてサインインしてください。"
           }
         },
         "ko" : {
@@ -19136,41 +19136,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิด Nuphos และลงชื่อเข้าใช้ก่อนแชร์"
+            "value" : "เปิด Oracle Bots และลงชื่อเข้าใช้ก่อนแชร์"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享前请先打开 Nuphos 并登录。"
+            "value" : "分享前请先打开 Oracle Bots 并登录。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "分享前請先開啟 Nuphos 並登入。"
+            "value" : "分享前請先開啟 Oracle Bots 並登入。"
           }
         }
       }
     },
-    "Open Nuphos and sign in. Shared Keychain provisioning is required before real sending is available." : {
+    "Open Oracle Bots and sign in. Shared Keychain provisioning is required before real sending is available." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre Nuphos e inicia sesión. Se necesita configurar el llavero compartido antes de poder enviar."
+            "value" : "Abre Oracle Bots e inicia sesión. Se necesita configurar el llavero compartido antes de poder enviar."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Nuphos dan masuk. Penyediaan Keychain bersama diperlukan sebelum pengiriman sebenarnya tersedia."
+            "value" : "Buka Oracle Bots dan masuk. Penyediaan Keychain bersama diperlukan sebelum pengiriman sebenarnya tersedia."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos を開いてサインインしてください。実際に送信するには、共有キーチェーンのプロビジョニングが必要です。"
+            "value" : "Oracle Bots を開いてサインインしてください。実際に送信するには、共有キーチェーンのプロビジョニングが必要です。"
           }
         },
         "ko" : {
@@ -19182,42 +19182,42 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิด Nuphos แล้วลงชื่อเข้าใช้ ต้องตั้งค่าพวงกุญแจที่แชร์ก่อนจึงจะส่งได้จริง"
+            "value" : "เปิด Oracle Bots แล้วลงชื่อเข้าใช้ ต้องตั้งค่าพวงกุญแจที่แชร์ก่อนจึงจะส่งได้จริง"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请打开 Nuphos 并登录。必须先配置共享钥匙串，才能实际发送。"
+            "value" : "请打开 Oracle Bots 并登录。必须先配置共享钥匙串，才能实际发送。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請開啟 Nuphos 並登入。必須先設定共用鑰匙圈，才能實際傳送。"
+            "value" : "請開啟 Oracle Bots 並登入。必須先設定共用鑰匙圈，才能實際傳送。"
           }
         }
       }
     },
-    "Open Nuphos on your computer to add a Box or connect your own computer, or ask a workspace administrator to connect one." : {
+    "Open Oracle Bots on your computer to add a Box or connect your own computer, or ask a workspace administrator to connect one." : {
       "extractionState" : "stale",
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre Nuphos en tu computadora para añadir un Box o conectar tu propia computadora, o pide a un administrador del espacio de trabajo que conecte una."
+            "value" : "Abre Oracle Bots en tu computadora para añadir un Box o conectar tu propia computadora, o pide a un administrador del espacio de trabajo que conecte una."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Nuphos di komputer Anda untuk menambahkan Box atau menghubungkan komputer Anda sendiri, atau minta administrator workspace untuk menghubungkannya."
+            "value" : "Buka Oracle Bots di komputer Anda untuk menambahkan Box atau menghubungkan komputer Anda sendiri, atau minta administrator workspace untuk menghubungkannya."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コンピュータで Nuphos を開いて Box を追加するか自分のコンピュータを接続するか、ワークスペースの管理者に接続を依頼してください。"
+            "value" : "コンピュータで Oracle Bots を開いて Box を追加するか自分のコンピュータを接続するか、ワークスペースの管理者に接続を依頼してください。"
           }
         },
         "ko" : {
@@ -19229,41 +19229,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิด Nuphos บนคอมพิวเตอร์ของคุณเพื่อเพิ่ม Box หรือเชื่อมต่อคอมพิวเตอร์ของคุณเอง หรือขอให้ผู้ดูแลเวิร์กสเปซเชื่อมต่อให้"
+            "value" : "เปิด Oracle Bots บนคอมพิวเตอร์ของคุณเพื่อเพิ่ม Box หรือเชื่อมต่อคอมพิวเตอร์ของคุณเอง หรือขอให้ผู้ดูแลเวิร์กสเปซเชื่อมต่อให้"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在你的电脑上打开 Nuphos 添加 Box 或连接你自己的电脑，或请工作区管理员连接一台。"
+            "value" : "在你的电脑上打开 Oracle Bots 添加 Box 或连接你自己的电脑，或请工作区管理员连接一台。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在你的電腦上開啟 Nuphos 新增 Box 或連接你自己的電腦，或請工作區管理員連接一台。"
+            "value" : "在你的電腦上開啟 Oracle Bots 新增 Box 或連接你自己的電腦，或請工作區管理員連接一台。"
           }
         }
       }
     },
-    "Open Nuphos on your computer to add a Box or connect your own computer." : {
+    "Open Oracle Bots on your computer to add a Box or connect your own computer." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre Nuphos en tu computadora para añadir un Box o conectar tu propia computadora."
+            "value" : "Abre Oracle Bots en tu computadora para añadir un Box o conectar tu propia computadora."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Nuphos di komputer Anda untuk menambahkan Box atau menghubungkan komputer Anda sendiri."
+            "value" : "Buka Oracle Bots di komputer Anda untuk menambahkan Box atau menghubungkan komputer Anda sendiri."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コンピュータで Nuphos を開いて、Box を追加するか自分のコンピュータを接続してください。"
+            "value" : "コンピュータで Oracle Bots を開いて、Box を追加するか自分のコンピュータを接続してください。"
           }
         },
         "ko" : {
@@ -19275,41 +19275,41 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิด Nuphos บนคอมพิวเตอร์ของคุณเพื่อเพิ่ม Box หรือเชื่อมต่อคอมพิวเตอร์ของคุณเอง"
+            "value" : "เปิด Oracle Bots บนคอมพิวเตอร์ของคุณเพื่อเพิ่ม Box หรือเชื่อมต่อคอมพิวเตอร์ของคุณเอง"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在你的电脑上打开 Nuphos，添加 Box 或连接你自己的电脑。"
+            "value" : "在你的电脑上打开 Oracle Bots，添加 Box 或连接你自己的电脑。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在你的電腦上開啟 Nuphos，新增 Box 或連接你自己的電腦。"
+            "value" : "在你的電腦上開啟 Oracle Bots，新增 Box 或連接你自己的電腦。"
           }
         }
       }
     },
-    "Open Nuphos on your computer to connect it and add a runtime." : {
+    "Open Oracle Bots on your computer to connect it and add a runtime." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Abre Nuphos en tu computadora para conectarla y añadir un entorno de ejecución."
+            "value" : "Abre Oracle Bots en tu computadora para conectarla y añadir un entorno de ejecución."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Buka Nuphos di komputer Anda untuk menghubungkannya dan menambahkan runtime."
+            "value" : "Buka Oracle Bots di komputer Anda untuk menghubungkannya dan menambahkan runtime."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コンピュータで Nuphos を開いて接続し、ランタイムを追加してください。"
+            "value" : "コンピュータで Oracle Bots を開いて接続し、ランタイムを追加してください。"
           }
         },
         "ko" : {
@@ -19321,19 +19321,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เปิด Nuphos บนคอมพิวเตอร์ของคุณเพื่อเชื่อมต่อและเพิ่มรันไทม์"
+            "value" : "เปิด Oracle Bots บนคอมพิวเตอร์ของคุณเพื่อเชื่อมต่อและเพิ่มรันไทม์"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在你的电脑上打开 Nuphos，连接它并添加运行环境。"
+            "value" : "在你的电脑上打开 Oracle Bots，连接它并添加运行环境。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "在你的電腦上開啟 Nuphos，連接它並新增執行環境。"
+            "value" : "在你的電腦上開啟 Oracle Bots，連接它並新增執行環境。"
           }
         }
       }
@@ -20628,24 +20628,24 @@
         }
       }
     },
-    "Please update Nuphos to read the latest AI notice." : {
+    "Please update Oracle Bots to read the latest AI notice." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Actualiza Nuphos para leer el aviso de IA más reciente."
+            "value" : "Actualiza Oracle Bots para leer el aviso de IA más reciente."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Perbarui Nuphos untuk membaca pemberitahuan AI terbaru."
+            "value" : "Perbarui Oracle Bots untuk membaca pemberitahuan AI terbaru."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "最新の AI に関するお知らせを読むには Nuphos をアップデートしてください。"
+            "value" : "最新の AI に関するお知らせを読むには Oracle Bots をアップデートしてください。"
           }
         },
         "ko" : {
@@ -20657,19 +20657,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "โปรดอัปเดต Nuphos เพื่ออ่านประกาศ AI ล่าสุด"
+            "value" : "โปรดอัปเดต Oracle Bots เพื่ออ่านประกาศ AI ล่าสุด"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "请更新 Nuphos 以阅读最新的 AI 告知事项。"
+            "value" : "请更新 Oracle Bots 以阅读最新的 AI 告知事项。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "請更新 Nuphos 以閱讀最新的 AI 告知事項。"
+            "value" : "請更新 Oracle Bots 以閱讀最新的 AI 告知事項。"
           }
         }
       }
@@ -22244,24 +22244,24 @@
         }
       }
     },
-    "Rent a computer from Nuphos" : {
+    "Rent a computer from Oracle Bots" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Alquilar una computadora de Nuphos"
+            "value" : "Alquilar una computadora de Oracle Bots"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Sewa komputer dari Nuphos"
+            "value" : "Sewa komputer dari Oracle Bots"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos からコンピューターを借りる"
+            "value" : "Oracle Bots からコンピューターを借りる"
           }
         },
         "ko" : {
@@ -22273,19 +22273,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เช่าคอมพิวเตอร์จาก Nuphos"
+            "value" : "เช่าคอมพิวเตอร์จาก Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "向 Nuphos 租一台电脑"
+            "value" : "向 Oracle Bots 租一台电脑"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "向 Nuphos 租一台電腦"
+            "value" : "向 Oracle Bots 租一台電腦"
           }
         }
       }
@@ -25703,24 +25703,24 @@
         }
       }
     },
-    "Shared sign-in is unavailable. Open Nuphos and sign in; both targets require matching shared Keychain provisioning." : {
+    "Shared sign-in is unavailable. Open Oracle Bots and sign in; both targets require matching shared Keychain provisioning." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El inicio de sesión compartido no está disponible. Abre Nuphos e inicia sesión; ambos destinos necesitan la misma configuración de llavero compartido."
+            "value" : "El inicio de sesión compartido no está disponible. Abre Oracle Bots e inicia sesión; ambos destinos necesitan la misma configuración de llavero compartido."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masuk bersama tidak tersedia. Buka Nuphos dan masuk; kedua target memerlukan penyediaan Keychain bersama yang cocok."
+            "value" : "Masuk bersama tidak tersedia. Buka Oracle Bots dan masuk; kedua target memerlukan penyediaan Keychain bersama yang cocok."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "共有サインインを利用できません。Nuphos を開いてサインインしてください。両方のターゲットに一致する共有キーチェーンのプロビジョニングが必要です。"
+            "value" : "共有サインインを利用できません。Oracle Bots を開いてサインインしてください。両方のターゲットに一致する共有キーチェーンのプロビジョニングが必要です。"
           }
         },
         "ko" : {
@@ -25732,19 +25732,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใช้การลงชื่อเข้าใช้ที่แชร์ไม่ได้ เปิด Nuphos แล้วลงชื่อเข้าใช้ ทั้งสองเป้าหมายต้องตั้งค่าพวงกุญแจที่แชร์ให้ตรงกัน"
+            "value" : "ใช้การลงชื่อเข้าใช้ที่แชร์ไม่ได้ เปิด Oracle Bots แล้วลงชื่อเข้าใช้ ทั้งสองเป้าหมายต้องตั้งค่าพวงกุญแจที่แชร์ให้ตรงกัน"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无法使用共享登录。请打开 Nuphos 并登录；两个 target 都需要匹配的共享钥匙串配置。"
+            "value" : "无法使用共享登录。请打开 Oracle Bots 并登录；两个 target 都需要匹配的共享钥匙串配置。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法使用共用登入。請開啟 Nuphos 並登入；兩個 target 都需要相符的共用鑰匙圈設定。"
+            "value" : "無法使用共用登入。請開啟 Oracle Bots 並登入；兩個 target 都需要相符的共用鑰匙圈設定。"
           }
         }
       }
@@ -26899,25 +26899,25 @@
         }
       }
     },
-    "Sign out of Nuphos?" : {
+    "Sign out of Oracle Bots?" : {
       "extractionState" : "stale",
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "¿Cerrar la sesión de Nuphos?"
+            "value" : "¿Cerrar la sesión de Oracle Bots?"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Keluar dari Nuphos?"
+            "value" : "Keluar dari Oracle Bots?"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos からサインアウトしますか？"
+            "value" : "Oracle Bots からサインアウトしますか？"
           }
         },
         "ko" : {
@@ -26929,19 +26929,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ออกจากระบบ Nuphos ใช่ไหม"
+            "value" : "ออกจากระบบ Oracle Bots ใช่ไหม"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "要退出 Nuphos 吗？"
+            "value" : "要退出 Oracle Bots 吗？"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "要登出 Nuphos 嗎？"
+            "value" : "要登出 Oracle Bots 嗎？"
           }
         }
       }
@@ -29299,24 +29299,24 @@
         }
       }
     },
-    "The computer running this runtime is offline. Open Nuphos on it, or switch to another runtime." : {
+    "The computer running this runtime is offline. Open Oracle Bots on it, or switch to another runtime." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "La computadora que ejecuta este entorno está sin conexión. Abre Nuphos en ella o cambia a otro entorno de ejecución."
+            "value" : "La computadora que ejecuta este entorno está sin conexión. Abre Oracle Bots en ella o cambia a otro entorno de ejecución."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komputer yang menjalankan runtime ini sedang offline. Buka Nuphos di sana, atau beralih ke runtime lain."
+            "value" : "Komputer yang menjalankan runtime ini sedang offline. Buka Oracle Bots di sana, atau beralih ke runtime lain."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "このランタイムを実行しているコンピュータはオフラインです。そのコンピュータで Nuphos を開くか、別のランタイムに切り替えてください。"
+            "value" : "このランタイムを実行しているコンピュータはオフラインです。そのコンピュータで Oracle Bots を開くか、別のランタイムに切り替えてください。"
           }
         },
         "ko" : {
@@ -29328,19 +29328,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คอมพิวเตอร์ที่รันรันไทม์นี้ออฟไลน์อยู่ เปิด Nuphos บนเครื่องนั้น หรือสลับไปใช้รันไทม์อื่น"
+            "value" : "คอมพิวเตอร์ที่รันรันไทม์นี้ออฟไลน์อยู่ เปิด Oracle Bots บนเครื่องนั้น หรือสลับไปใช้รันไทม์อื่น"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "运行这个运行环境的电脑已离线。请在那台电脑上打开 Nuphos，或切换到其他运行环境。"
+            "value" : "运行这个运行环境的电脑已离线。请在那台电脑上打开 Oracle Bots，或切换到其他运行环境。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "執行這個執行環境的電腦已離線。請在那台電腦上開啟 Nuphos，或切換到其他執行環境。"
+            "value" : "執行這個執行環境的電腦已離線。請在那台電腦上開啟 Oracle Bots，或切換到其他執行環境。"
           }
         }
       }
@@ -29575,7 +29575,7 @@
         }
       }
     },
-    "The prompt sets the writing style and spells names Whisper doesn't know, such as products and services. Voice input is included with a Nuphos subscription; recordings are transcribed by OpenAI Whisper." : {
+    "The prompt sets the writing style and spells names Whisper doesn't know, such as products and services. Voice input is included with a Oracle Bots subscription; recordings are transcribed by OpenAI Whisper." : {
       "comment" : "Legal text",
       "shouldTranslate" : false
     },
@@ -29901,24 +29901,24 @@
         }
       }
     },
-    "The shared sign-in no longer matches this account. Sign in again in Nuphos." : {
+    "The shared sign-in no longer matches this account. Sign in again in Oracle Bots." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "El inicio de sesión compartido ya no coincide con esta cuenta. Vuelve a iniciar sesión en Nuphos."
+            "value" : "El inicio de sesión compartido ya no coincide con esta cuenta. Vuelve a iniciar sesión en Oracle Bots."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Masuk bersama tidak lagi cocok dengan akun ini. Masuk lagi di Nuphos."
+            "value" : "Masuk bersama tidak lagi cocok dengan akun ini. Masuk lagi di Oracle Bots."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "共有サインインがこのアカウントと一致しなくなりました。Nuphos でもう一度サインインしてください。"
+            "value" : "共有サインインがこのアカウントと一致しなくなりました。Oracle Bots でもう一度サインインしてください。"
           }
         },
         "ko" : {
@@ -29930,19 +29930,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การลงชื่อเข้าใช้ที่แชร์ไม่ตรงกับบัญชีนี้แล้ว ลงชื่อเข้าใช้อีกครั้งใน Nuphos"
+            "value" : "การลงชื่อเข้าใช้ที่แชร์ไม่ตรงกับบัญชีนี้แล้ว ลงชื่อเข้าใช้อีกครั้งใน Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "共享登录与这个账号不再匹配。请在 Nuphos 中重新登录。"
+            "value" : "共享登录与这个账号不再匹配。请在 Oracle Bots 中重新登录。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "共用登入與這個帳號不再相符。請在 Nuphos 中重新登入。"
+            "value" : "共用登入與這個帳號不再相符。請在 Oracle Bots 中重新登入。"
           }
         }
       }
@@ -30453,24 +30453,24 @@
         }
       }
     },
-    "This computer asks for an account to show its screen. Update Nuphos on it to open its desktop without one." : {
+    "This computer asks for an account to show its screen. Update Oracle Bots on it to open its desktop without one." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esta computadora pide una cuenta para mostrar su pantalla. Actualiza Nuphos en ella para abrir su escritorio sin cuenta."
+            "value" : "Esta computadora pide una cuenta para mostrar su pantalla. Actualiza Oracle Bots en ella para abrir su escritorio sin cuenta."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Komputer ini meminta akun untuk menampilkan layarnya. Perbarui Nuphos di sana agar desktop dapat dibuka tanpa akun."
+            "value" : "Komputer ini meminta akun untuk menampilkan layarnya. Perbarui Oracle Bots di sana agar desktop dapat dibuka tanpa akun."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "このコンピュータは画面を表示するためにアカウントを求めています。そのコンピュータの Nuphos をアップデートすると、アカウントなしでデスクトップを開けます。"
+            "value" : "このコンピュータは画面を表示するためにアカウントを求めています。そのコンピュータの Oracle Bots をアップデートすると、アカウントなしでデスクトップを開けます。"
           }
         },
         "ko" : {
@@ -30482,19 +30482,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "คอมพิวเตอร์เครื่องนี้ต้องใช้บัญชีเพื่อแสดงหน้าจอ อัปเดต Nuphos บนเครื่องนั้นเพื่อเปิดเดสก์ท็อปโดยไม่ต้องใช้บัญชี"
+            "value" : "คอมพิวเตอร์เครื่องนี้ต้องใช้บัญชีเพื่อแสดงหน้าจอ อัปเดต Oracle Bots บนเครื่องนั้นเพื่อเปิดเดสก์ท็อปโดยไม่ต้องใช้บัญชี"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这台电脑需要账号才能显示画面。请在那台电脑上更新 Nuphos，即可免账号打开桌面。"
+            "value" : "这台电脑需要账号才能显示画面。请在那台电脑上更新 Oracle Bots，即可免账号打开桌面。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這台電腦需要帳號才能顯示畫面。請在那台電腦上更新 Nuphos，即可免帳號開啟桌面。"
+            "value" : "這台電腦需要帳號才能顯示畫面。請在那台電腦上更新 Oracle Bots，即可免帳號開啟桌面。"
           }
         }
       }
@@ -30683,24 +30683,24 @@
         }
       }
     },
-    "This disconnects the runtime. Your tasks stay in Nuphos." : {
+    "This disconnects the runtime. Your tasks stay in Oracle Bots." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esto desconecta el entorno de ejecución. Tus tareas se quedan en Nuphos."
+            "value" : "Esto desconecta el entorno de ejecución. Tus tareas se quedan en Oracle Bots."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ini memutuskan runtime. Tugas Anda tetap di Nuphos."
+            "value" : "Ini memutuskan runtime. Tugas Anda tetap di Oracle Bots."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ランタイムとの接続を解除します。タスクは Nuphos に残ります。"
+            "value" : "ランタイムとの接続を解除します。タスクは Oracle Bots に残ります。"
           }
         },
         "ko" : {
@@ -30712,19 +30712,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การดำเนินการนี้จะตัดการเชื่อมต่อรันไทม์ งานของคุณยังอยู่ใน Nuphos"
+            "value" : "การดำเนินการนี้จะตัดการเชื่อมต่อรันไทม์ งานของคุณยังอยู่ใน Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这会断开运行环境的连接。你的任务会保留在 Nuphos 中。"
+            "value" : "这会断开运行环境的连接。你的任务会保留在 Oracle Bots 中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這會中斷執行環境的連接。你的任務會保留在 Nuphos 中。"
+            "value" : "這會中斷執行環境的連接。你的任務會保留在 Oracle Bots 中。"
           }
         }
       }
@@ -30867,24 +30867,24 @@
         }
       }
     },
-    "This permanently deletes the computer, its files and its runtimes' sign-ins, and stops tasks running on it. Your task history stays in Nuphos." : {
+    "This permanently deletes the computer, its files and its runtimes' sign-ins, and stops tasks running on it. Your task history stays in Oracle Bots." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esto elimina de forma permanente la computadora, sus archivos y los inicios de sesión de sus entornos de ejecución, y detiene las tareas que se ejecutan en ella. Tu historial de tareas se conserva en Nuphos."
+            "value" : "Esto elimina de forma permanente la computadora, sus archivos y los inicios de sesión de sus entornos de ejecución, y detiene las tareas que se ejecutan en ella. Tu historial de tareas se conserva en Oracle Bots."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ini menghapus komputer, file-nya, dan info masuk runtime-nya secara permanen, serta menghentikan tugas yang berjalan di sana. Riwayat tugas Anda tetap ada di Nuphos."
+            "value" : "Ini menghapus komputer, file-nya, dan info masuk runtime-nya secara permanen, serta menghentikan tugas yang berjalan di sana. Riwayat tugas Anda tetap ada di Oracle Bots."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "コンピュータ、そのファイル、ランタイムのサインイン情報を完全に削除し、実行中のタスクを停止します。タスク履歴は Nuphos に残ります。"
+            "value" : "コンピュータ、そのファイル、ランタイムのサインイン情報を完全に削除し、実行中のタスクを停止します。タスク履歴は Oracle Bots に残ります。"
           }
         },
         "ko" : {
@@ -30896,19 +30896,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การดำเนินการนี้จะลบคอมพิวเตอร์ ไฟล์ และการลงชื่อเข้าใช้ของรันไทม์บนเครื่องอย่างถาวร และหยุดงานที่ทำงานอยู่บนเครื่อง ประวัติงานของคุณยังคงอยู่ใน Nuphos"
+            "value" : "การดำเนินการนี้จะลบคอมพิวเตอร์ ไฟล์ และการลงชื่อเข้าใช้ของรันไทม์บนเครื่องอย่างถาวร และหยุดงานที่ทำงานอยู่บนเครื่อง ประวัติงานของคุณยังคงอยู่ใน Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "此操作将永久删除该电脑、其文件及其运行环境的登录信息，并停止在其上运行的任务。你的任务历史记录会保留在 Nuphos 中。"
+            "value" : "此操作将永久删除该电脑、其文件及其运行环境的登录信息，并停止在其上运行的任务。你的任务历史记录会保留在 Oracle Bots 中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這會永久刪除這台電腦、其檔案及執行環境的登入資訊，並停止其上執行中的任務。你的任務歷史記錄會保留在 Nuphos 中。"
+            "value" : "這會永久刪除這台電腦、其檔案及執行環境的登入資訊，並停止其上執行中的任務。你的任務歷史記錄會保留在 Oracle Bots 中。"
           }
         }
       }
@@ -30959,24 +30959,24 @@
         }
       }
     },
-    "This runtime is signed out. Sign it in from Nuphos on the computer it runs on, or switch to another runtime." : {
+    "This runtime is signed out. Sign it in from Oracle Bots on the computer it runs on, or switch to another runtime." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Este entorno de ejecución cerró sesión. Inicia sesión desde Nuphos en la computadora donde se ejecuta o cambia a otro entorno."
+            "value" : "Este entorno de ejecución cerró sesión. Inicia sesión desde Oracle Bots en la computadora donde se ejecuta o cambia a otro entorno."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Runtime ini sudah keluar. Masukkan dari Nuphos di komputer tempatnya berjalan, atau beralih ke runtime lain."
+            "value" : "Runtime ini sudah keluar. Masukkan dari Oracle Bots di komputer tempatnya berjalan, atau beralih ke runtime lain."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "このランタイムはサインアウトしています。実行しているコンピュータの Nuphos からサインインするか、別のランタイムに切り替えてください。"
+            "value" : "このランタイムはサインアウトしています。実行しているコンピュータの Oracle Bots からサインインするか、別のランタイムに切り替えてください。"
           }
         },
         "ko" : {
@@ -30988,19 +30988,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "รันไทม์นี้ออกจากระบบแล้ว ลงชื่อเข้าใช้จาก Nuphos บนคอมพิวเตอร์ที่รันอยู่ หรือสลับไปใช้รันไทม์อื่น"
+            "value" : "รันไทม์นี้ออกจากระบบแล้ว ลงชื่อเข้าใช้จาก Oracle Bots บนคอมพิวเตอร์ที่รันอยู่ หรือสลับไปใช้รันไทม์อื่น"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这个运行环境已退出登录。请在运行它的电脑上从 Nuphos 登录，或切换到其他运行环境。"
+            "value" : "这个运行环境已退出登录。请在运行它的电脑上从 Oracle Bots 登录，或切换到其他运行环境。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這個執行環境已登出。請在執行它的電腦上從 Nuphos 登入，或切換到其他執行環境。"
+            "value" : "這個執行環境已登出。請在執行它的電腦上從 Oracle Bots 登入，或切換到其他執行環境。"
           }
         }
       }
@@ -31143,24 +31143,24 @@
         }
       }
     },
-    "This stops the runtime and permanently deletes its files and sign-in. Your tasks' history stays in Nuphos." : {
+    "This stops the runtime and permanently deletes its files and sign-in. Your tasks' history stays in Oracle Bots." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Esto detiene el entorno de ejecución y elimina de forma permanente sus archivos y su inicio de sesión. El historial de tus tareas se queda en Nuphos."
+            "value" : "Esto detiene el entorno de ejecución y elimina de forma permanente sus archivos y su inicio de sesión. El historial de tus tareas se queda en Oracle Bots."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Ini menghentikan runtime dan menghapus file serta info masuknya secara permanen. Riwayat tugas Anda tetap di Nuphos."
+            "value" : "Ini menghentikan runtime dan menghapus file serta info masuknya secara permanen. Riwayat tugas Anda tetap di Oracle Bots."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ランタイムを停止し、そのファイルとサインイン情報を完全に削除します。タスクの履歴は Nuphos に残ります。"
+            "value" : "ランタイムを停止し、そのファイルとサインイン情報を完全に削除します。タスクの履歴は Oracle Bots に残ります。"
           }
         },
         "ko" : {
@@ -31172,19 +31172,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "การดำเนินการนี้จะหยุดรันไทม์และลบไฟล์และการลงชื่อเข้าใช้ของรันไทม์อย่างถาวร ประวัติงานของคุณยังอยู่ใน Nuphos"
+            "value" : "การดำเนินการนี้จะหยุดรันไทม์และลบไฟล์และการลงชื่อเข้าใช้ของรันไทม์อย่างถาวร ประวัติงานของคุณยังอยู่ใน Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "这会停止运行环境，并永久删除它的文件和登录信息。你的任务记录会保留在 Nuphos 中。"
+            "value" : "这会停止运行环境，并永久删除它的文件和登录信息。你的任务记录会保留在 Oracle Bots 中。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "這會停止執行環境，並永久刪除它的檔案與登入資訊。你的任務紀錄會保留在 Nuphos 中。"
+            "value" : "這會停止執行環境，並永久刪除它的檔案與登入資訊。你的任務紀錄會保留在 Oracle Bots 中。"
           }
         }
       }
@@ -33033,48 +33033,48 @@
         }
       }
     },
-    "Use Nuphos Cloud" : {
+    "Use Oracle Bots Cloud" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Usar Nuphos Cloud"
+            "value" : "Usar Oracle Bots Cloud"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Gunakan Nuphos Cloud"
+            "value" : "Gunakan Oracle Bots Cloud"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos Cloud を使用"
+            "value" : "Oracle Bots Cloud を使用"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos Cloud 사용"
+            "value" : "Oracle Bots Cloud 사용"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ใช้ Nuphos Cloud"
+            "value" : "ใช้ Oracle Bots Cloud"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用 Nuphos Cloud"
+            "value" : "使用 Oracle Bots Cloud"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "使用 Nuphos Cloud"
+            "value" : "使用 Oracle Bots Cloud"
           }
         }
       }
@@ -33820,48 +33820,48 @@
         }
       }
     },
-    "Visit Nuphos" : {
+    "Visit Oracle Bots" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Visitar Nuphos"
+            "value" : "Visitar Oracle Bots"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kunjungi Nuphos"
+            "value" : "Kunjungi Oracle Bots"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos を開く"
+            "value" : "Oracle Bots を開く"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos 방문"
+            "value" : "Oracle Bots 방문"
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ไปที่ Nuphos"
+            "value" : "ไปที่ Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前往 Nuphos"
+            "value" : "前往 Oracle Bots"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "前往 Nuphos"
+            "value" : "前往 Oracle Bots"
           }
         }
       }
@@ -34418,24 +34418,24 @@
         }
       }
     },
-    "We could not reach Nuphos. Check your connection and try again." : {
+    "We could not reach Oracle Bots. Check your connection and try again." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "No pudimos conectar con Nuphos. Comprueba tu conexión e inténtalo de nuevo."
+            "value" : "No pudimos conectar con Oracle Bots. Comprueba tu conexión e inténtalo de nuevo."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Kami tidak dapat menjangkau Nuphos. Periksa koneksi Anda dan coba lagi."
+            "value" : "Kami tidak dapat menjangkau Oracle Bots. Periksa koneksi Anda dan coba lagi."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos に接続できませんでした。接続を確認してもう一度お試しください。"
+            "value" : "Oracle Bots に接続できませんでした。接続を確認してもう一度お試しください。"
           }
         },
         "ko" : {
@@ -34447,19 +34447,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "เชื่อมต่อ Nuphos ไม่ได้ ตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง"
+            "value" : "เชื่อมต่อ Oracle Bots ไม่ได้ ตรวจสอบการเชื่อมต่อแล้วลองอีกครั้ง"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "无法连接到 Nuphos。请检查网络连接后重试。"
+            "value" : "无法连接到 Oracle Bots。请检查网络连接后重试。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "無法連線到 Nuphos。請檢查網路連線後再試一次。"
+            "value" : "無法連線到 Oracle Bots。請檢查網路連線後再試一次。"
           }
         }
       }
@@ -34698,24 +34698,24 @@
         }
       }
     },
-    "Welcome to Nuphos" : {
+    "Welcome to Oracle Bots" : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Te damos la bienvenida a Nuphos"
+            "value" : "Te damos la bienvenida a Oracle Bots"
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Selamat datang di Nuphos"
+            "value" : "Selamat datang di Oracle Bots"
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Nuphos へようこそ"
+            "value" : "Oracle Bots へようこそ"
           }
         },
         "ko" : {
@@ -34727,19 +34727,19 @@
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "ยินดีต้อนรับสู่ Nuphos"
+            "value" : "ยินดีต้อนรับสู่ Oracle Bots"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "欢迎使用 Nuphos"
+            "value" : "欢迎使用 Oracle Bots"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "歡迎使用 Nuphos"
+            "value" : "歡迎使用 Oracle Bots"
           }
         }
       }
@@ -35721,48 +35721,48 @@
         }
       }
     },
-    "Your Bots and tasks need a runtime to work. Connect your computer with Nuphos Desktop, or ask a workspace administrator to share a runtime." : {
+    "Your Bots and tasks need a runtime to work. Connect your computer with Oracle Bots Desktop, or ask a workspace administrator to share a runtime." : {
       "localizations" : {
         "es" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Tus Bots y tareas necesitan un entorno de ejecución. Conecta tu ordenador con Nuphos Desktop o pide a un administrador del espacio de trabajo que comparta uno."
+            "value" : "Tus Bots y tareas necesitan un entorno de ejecución. Conecta tu ordenador con Oracle Bots Desktop o pide a un administrador del espacio de trabajo que comparta uno."
           }
         },
         "id" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bot dan tugas Anda membutuhkan runtime. Hubungkan komputer dengan Nuphos Desktop, atau minta administrator ruang kerja membagikan runtime."
+            "value" : "Bot dan tugas Anda membutuhkan runtime. Hubungkan komputer dengan Oracle Bots Desktop, atau minta administrator ruang kerja membagikan runtime."
           }
         },
         "ja" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bot とタスクにはランタイムが必要です。Nuphos Desktop でコンピュータを接続するか、ワークスペース管理者にランタイムの共有を依頼してください。"
+            "value" : "Bot とタスクにはランタイムが必要です。Oracle Bots Desktop でコンピュータを接続するか、ワークスペース管理者にランタイムの共有を依頼してください。"
           }
         },
         "ko" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bot과 작업에는 런타임이 필요합니다. Nuphos Desktop으로 컴퓨터를 연결하거나 워크스페이스 관리자에게 런타임 공유를 요청하세요."
+            "value" : "Bot과 작업에는 런타임이 필요합니다. Oracle Bots Desktop으로 컴퓨터를 연결하거나 워크스페이스 관리자에게 런타임 공유를 요청하세요."
           }
         },
         "th" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bot และงานต้องใช้รันไทม์ เชื่อมต่อคอมพิวเตอร์ด้วย Nuphos Desktop หรือขอให้ผู้ดูแลเวิร์กสเปซแชร์รันไทม์"
+            "value" : "Bot และงานต้องใช้รันไทม์ เชื่อมต่อคอมพิวเตอร์ด้วย Oracle Bots Desktop หรือขอให้ผู้ดูแลเวิร์กสเปซแชร์รันไทม์"
           }
         },
         "zh-Hans" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bot 和任务需要运行环境才能工作。请使用 Nuphos Desktop 连接电脑，或请工作区管理员共享运行环境。"
+            "value" : "Bot 和任务需要运行环境才能工作。请使用 Oracle Bots Desktop 连接电脑，或请工作区管理员共享运行环境。"
           }
         },
         "zh-Hant" : {
           "stringUnit" : {
             "state" : "translated",
-            "value" : "Bot 與任務需要執行環境才能工作。請使用 Nuphos Desktop 連接電腦，或請工作區管理員共用執行環境。"
+            "value" : "Bot 與任務需要執行環境才能工作。請使用 Oracle Bots Desktop 連接電腦，或請工作區管理員共用執行環境。"
           }
         }
       }

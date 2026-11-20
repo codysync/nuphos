@@ -88,7 +88,7 @@ struct ChannelPost: Equatable, Identifiable, Sendable {
         let replyTo = reply?["authorName"]?.stringValue.flatMap { name in
             reply?["text"]?.stringValue.map { ChannelReply(id: reply?["id"]?.stringValue, authorName: name, text: $0) }
         }
-        self.init(id: message.id, senderId: senderId, isAgent: type == "agent", name: attributed?.name ?? "Nuphos",
+        self.init(id: message.id, senderId: senderId, isAgent: type == "agent", name: attributed?.name ?? "Oracle Bots",
                   avatar: attributed?.avatar, runtime: sender["agentRuntime"]?.stringValue,
                   text: text, uploads: uploads, downloads: downloads, sentAt: sentAt, replyTo: replyTo)
         isRecord = type == "system"

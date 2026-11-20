@@ -47,7 +47,7 @@ nonisolated final class RFBClient {
             switch self {
             case .notVNC: String(localized: "The computer did not answer as a VNC server.")
             case .refused(let reason): reason
-            case .needsSignIn: String(localized: "This computer asks for an account to show its screen. Update Nuphos on it to open its desktop without one.")
+            case .needsSignIn: String(localized: "This computer asks for an account to show its screen. Update Oracle Bots on it to open its desktop without one.")
             case .unexpected(let what): String(localized: "The desktop stream broke off (\(what)).")
             }
         }

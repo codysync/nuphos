@@ -87,7 +87,7 @@ struct RuntimesPage: View {
             Button("Delete computer", role: .destructive) { Task { await delete(device) } }
             Button("Cancel", role: .cancel) {}
         } message: { _ in
-            Text("This permanently deletes the computer, its files and its runtimes' sign-ins, and stops tasks running on it. Your task history stays in Nuphos.")
+            Text("This permanently deletes the computer, its files and its runtimes' sign-ins, and stops tasks running on it. Your task history stays in Oracle Bots.")
         }
         .alert(
             "Could not delete computer",
@@ -125,7 +125,7 @@ struct RuntimesPage: View {
     private var list: some View {
         List {
             if boxes.isEmpty {
-                ContentUnavailableView("No runtimes", image: "lucide-cpu", description: Text("Open Nuphos on your computer to connect it and add a runtime."))
+                ContentUnavailableView("No runtimes", image: "lucide-cpu", description: Text("Open Oracle Bots on your computer to connect it and add a runtime."))
                     .listRowBackground(Color.clear)
             }
             ForEach(boxes) { box in
@@ -237,11 +237,11 @@ private struct AgentSignInInstructions: View {
     /// The Runtimes page is in Nuphos on a computer, not in this app.
     private var steps: String {
         guard let local = runtime.local else {
-            return String(localized: "A workspace administrator can sign it in from the Runtimes page in Nuphos on their computer.")
+            return String(localized: "A workspace administrator can sign it in from the Runtimes page in Oracle Bots on their computer.")
         }
         return teammate
-            ? String(localized: "\(local.deviceLabel) belongs to a teammate, so only they can sign it in. Ask them to open Nuphos on it and choose Sign in on the Runtimes page.")
-            : String(localized: "On \(local.deviceLabel), open Nuphos, go to the Runtimes page and choose Sign in for this runtime.")
+            ? String(localized: "\(local.deviceLabel) belongs to a teammate, so only they can sign it in. Ask them to open Oracle Bots on it and choose Sign in on the Runtimes page.")
+            : String(localized: "On \(local.deviceLabel), open Oracle Bots, go to the Runtimes page and choose Sign in for this runtime.")
     }
 }
 

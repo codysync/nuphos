@@ -63,7 +63,7 @@ struct ProfileSheet: View {
                 } header: {
                     Text("Voice input")
                 } footer: {
-                    Text("The prompt sets the writing style and spells names Whisper doesn't know, such as products and services. Voice input is included with a Nuphos subscription; recordings are transcribed by OpenAI Whisper.", comment: "Legal text")
+                    Text("The prompt sets the writing style and spells names Whisper doesn't know, such as products and services. Voice input is included with a Oracle Bots subscription; recordings are transcribed by OpenAI Whisper.", comment: "Legal text")
                 }
                 .listRowBackground(Theme.surface)
                 #endif
@@ -121,8 +121,8 @@ struct ProfileSheet: View {
                     VStack(spacing: 6) {
                         Image("NuphosMark").resizable().scaledToFit()
                             .frame(width: 36, height: 36)
-                            .accessibilityLabel("Nuphos logo")
-                        Text("Nuphos").font(.headline)
+                            .accessibilityLabel("Oracle Bots logo")
+                        Text("Oracle Bots").font(.headline)
                         Text(verbatim: versionLabel)
                             .font(.caption)
                             .accessibilityIdentifier("account.version")

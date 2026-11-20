@@ -74,7 +74,7 @@ enum Passkeys {
         var errorDescription: String? {
             switch self {
             case .cancelled: String(localized: "The passkey request was cancelled.")
-            case .malformed: String(localized: "Nuphos sent passkey options this app could not read.")
+            case .malformed: String(localized: "Oracle Bots sent passkey options this app could not read.")
             }
         }
     }

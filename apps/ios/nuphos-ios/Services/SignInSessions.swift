@@ -19,10 +19,10 @@ struct SignInSession: Decodable, Identifiable, Equatable {
 /// The labels Desktop's `signInSessionsPresentation.ts` shows.
 enum SignInSessions {
     private static let apps = [
-        "nuphos-desktop": "Nuphos Desktop",
-        "nuphos-ios": "Nuphos for iOS",
-        "nuphos-android": "Nuphos for Android",
-        "nuphos-cli": "Nuphos CLI",
+        "nuphos-desktop": "Oracle Bots Desktop",
+        "nuphos-ios": "Oracle Bots for iOS",
+        "nuphos-android": "Oracle Bots for Android",
+        "nuphos-cli": "Oracle Bots CLI",
     ]
     private static let browsers = [("Edg/", "Edge"), ("Firefox/", "Firefox"), ("Chrome/", "Chrome"), ("Safari/", "Safari")]
     private static let systems = [("iPhone|iPad", "iOS"), ("Android", "Android"), ("Macintosh|Mac OS X", "macOS"), ("Windows", "Windows"), ("Linux", "Linux")]

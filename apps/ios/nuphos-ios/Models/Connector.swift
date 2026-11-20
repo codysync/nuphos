@@ -88,7 +88,7 @@ extension Connector {
                 path: "aws-accounts",
                 fields: [.init(key: "roleArn", title: "Role ARN", placeholder: "arn:aws:iam::123456789012:role/Nuphos")]
             ),
-            note: "The role must already trust the Nuphos connector — Nuphos assumes it before saving the binding.",
+            note: "The role must already trust the Oracle Bots connector — Oracle Bots assumes it before saving the binding.",
             labelKeys: ["alias", "accountId"], detailKeys: ["roleArn"]
         ),
         .init(key: "gcp", title: "Google Cloud / Firebase", logo: "logo-gcp", category: .infrastructure, bind: .desktopOnly,

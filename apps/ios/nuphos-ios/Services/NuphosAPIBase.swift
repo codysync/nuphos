@@ -22,8 +22,8 @@ enum NuphosAPI {
             switch self {
             case .unauthorized: String(localized: "Your session has expired. Please sign in again.")
             case .sessionRequired: String(localized: "Sign in again to manage your devices.")
-            case .http(let code, let message): message ?? String(localized: "Nuphos returned an unexpected response (\(code)).")
-            case .invalidResponse: String(localized: "Nuphos returned something we could not read.")
+            case .http(let code, let message): message ?? String(localized: "Oracle Bots returned an unexpected response (\(code)).")
+            case .invalidResponse: String(localized: "Oracle Bots returned something we could not read.")
             case .mfaRequired: String(localized: "Enter the code from your authenticator app.")
             case .reauthRequired: String(localized: "Enter a code from your authenticator app to continue.")
             case .signInRequired: String(localized: "For your security, sign in again to continue.")
