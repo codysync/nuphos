@@ -188,6 +188,9 @@ export const botAccessScenarios: Scenario[] = [
 
       // Its chat is made while the Bot is still the viewer's; then it moves to the teammate.
       await openChat(page, SHARED)
+      // Scratch only (#4038 before): the banner under a new Bot's empty chat.
+      await page.getByText(CHOOSE).waitFor()
+      await shoot(page, 'empty-chat-banner')
       shareAway(stack, bot.sessionId, mate.id)
       await page.reload()
       await openChat(page, SHARED)
