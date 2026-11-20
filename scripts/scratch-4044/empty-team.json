@@ -1,0 +1,3 @@
+{
+  "GET /teams": { "status": 200, "body": { "teams": [] } }
+}
